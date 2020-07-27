@@ -1,4 +1,7 @@
-### Hi there 👋
+### User Driven Developer 😄
+- 🔭 I’m currently working on samsung SDS 
+- 🌱 I’m currently learning Spring Boot , Typescript, SAP-UI5 
+- 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
 
 <!--
 **RumbleKAT/RumbleKAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
