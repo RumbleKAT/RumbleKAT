@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on samsung SDS 
 - 🌱 I’m currently learning Spring Boot , Typescript, SAP-UI5 
 - 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
+- 😄 Currently I wrote Open-UI5 Tutorial for korean version : https://velog.io/@rumblekat/series/OpenUI5
 
 <!--
 **RumbleKAT/RumbleKAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
