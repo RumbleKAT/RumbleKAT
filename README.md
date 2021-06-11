@@ -1,4 +1,5 @@
 ### User Driven Developer 😄
+- 💬 My MBTI is INTJ 
 - 🔭 I’m currently working on samsung SDS 
 - 🌱 I’m currently learning Spring Boot , Typescript, SAP-UI5, React 
 - 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
