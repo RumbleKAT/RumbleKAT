@@ -5,6 +5,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
 - 😄 Currently I wrote Open-UI5 Tutorial for korean version : https://velog.io/@rumblekat/series/OpenUI5
 - ⚡ My Algorithm Blog is https://medium.com/@reki318 
+### 
+[![Rumblekats's github stats](https://github-readme-stats.vercel.app/api?username=rumblekat)](https://github.com/rumblekat/github-readme-stats)
+
 
 <!--
 **RumbleKAT/RumbleKAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
