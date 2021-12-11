@@ -1,7 +1,7 @@
 ### User Driven Developer 😄
 - 💬 My MBTI is INTJ 
 - 🔭 I’m currently working on samsung SDS 
-- 🌱 I’m currently learning Spring Boot , Typescript, SAP-UI5, React 
+- 🌱 I’m currently learning Spring Boot , Typescript, React, Next.js, GraphQL, Kotlin 
 - 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
 - 😄 Currently I wrote Open-UI5 Tutorial for korean version : https://velog.io/@rumblekat/series/OpenUI5
 - ⚡ My Algorithm Blog is https://medium.com/@reki318 
