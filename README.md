@@ -6,6 +6,8 @@
 - 😄 Currently I wrote Open-UI5 Tutorial for korean version : https://velog.io/@rumblekat/series/OpenUI5
 - ⚡ My Algorithm Blog is https://medium.com/@reki318 
 - 🌱 Recently I'm posting what i learned today in this page. https://rumblekat.github.io/ 
+- Software Maestro 8th Mentee
+- Microsoft Student Partner 
 ### 
 [![Rumblekats's github stats](https://github-readme-stats.vercel.app/api?username=rumblekat)](https://github.com/rumblekat/github-readme-stats)
 
