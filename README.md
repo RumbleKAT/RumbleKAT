@@ -2,7 +2,6 @@
 - 💬 My MBTI is INTJ 
 - 🔭 I’m currently working on Naver Z (Zepeto)
 - 🌱 I’m currently using Spring Boot, Batch, Vue, Kotlin, Java  
-- 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
 - 🌱 Recently I'm posting what i learned today in this page. https://rumblekat.github.io/
 - Samsung SDS Software Engineer
 - Software Maestro 8th Mentee
