@@ -1,7 +1,7 @@
 ### User Driven Developer 😄
 - 💬 My MBTI is INTJ 
 - 🔭 I’m currently working on Naver Z (Zepeto)
-- 🌱 I’m currently learning Spring Boot , Typescript, React, Next.js, GraphQL, Kotlin, Vue, Nuxt, Nodejs(MSA)
+- 🌱 I’m currently using Spring Boot, Batch, Vue, Kotlin, Java  
 - 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
 - 🌱 Recently I'm posting what i learned today in this page. https://rumblekat.github.io/
 - Samsung SDS Software Engineer
