@@ -1,11 +1,10 @@
 ### User Driven Developer 😄
 - 💬 My MBTI is INTJ 
-- 🔭 I’m currently working on samsung SDS 
+- 🔭 I’m currently working on Naver Z (Zepeto)
 - 🌱 I’m currently learning Spring Boot , Typescript, React, Next.js, GraphQL, Kotlin, Vue, Nuxt, Nodejs(MSA)
 - 📫 How to reach me: https://www.linkedin.com/in/myungjin-song-20b51a161
-- 😄 Currently I wrote Open-UI5 Tutorial for korean version : https://velog.io/@rumblekat/series/OpenUI5
-- ⚡ My Algorithm Blog is https://medium.com/@reki318 
-- 🌱 Recently I'm posting what i learned today in this page. https://rumblekat.github.io/ 
+- 🌱 Recently I'm posting what i learned today in this page. https://rumblekat.github.io/
+- Samsung SDS Software Engineer
 - Software Maestro 8th Mentee
 - Microsoft Student Partner 
 ### 
